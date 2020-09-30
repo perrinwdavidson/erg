@@ -62,27 +62,27 @@ nav-menu: true
 	<div class="row">
 		<div class="4u 12u$(medium)">
 			<h3>Perrin Davidson</h3>
-			<h4><i>Co-President</i></h1>
+			<h4><i>Co-President</i></h4>
 		</div>
 		<div class="4u 12u$(medium)">
 			<h3>Niall Coffey</h3>
-			<h4><i>Co-President</i></h1>
+			<h4><i>Co-President</i></h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<h3>Walker Gillett</h3>
-			<h4><i>Secretary</i></h1>
+			<h4><i>Secretary</i></h4>
 		</div>
-    		<div class="4u$ 12u$(medium)">
+    		<div class="4u 12u$(medium)">
 			<h3>Jacob Joergens</h3>
-			<h4><i>Director of Research</i></h1>
+			<h4><i>Director of Research</i></h4>
 		</div>
-		<div class="4u$ 12u$(medium)">
+		<div class="4u 12u$(medium)">
 			<h3>Jessica Zhong</h3>
-			<h4><i>Director of Media and Outreach</i></h1>
+			<h4><i>Director of Media and Outreach</i></h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
 			<h3>Marianna Karagiannis</h3>
-			<h4><i>Data Analysis Working Group Leader</i></h1>
+			<h4><i>Data Analysis Working Group Leader</i></h4>
 		</div>
 	</div>
 </div>
