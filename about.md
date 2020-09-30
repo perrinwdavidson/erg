@@ -84,6 +84,18 @@ nav-menu: true
 			<h3>Marianna Karagiannis</h3>
 			<h4><i>Data Analysis Working Group Leader</i></h4>
 		</div>
+		<div class="4u 12u$(medium)">
+			<h3>Juni Terry</h3>
+			<h4><i>Modeling Working Group Leader</i></h4>
+		</div>
+		<div class="4u 12u$(medium)">
+			<h3>Alex Viviano</h3>
+			<h4><i>Policy Working Group Leader</i></h4>
+		</div>
+		<div class="4u$ 12u$(medium)">
+			<h3>Michael Han</h3>
+			<h4><i>Organizing Working Group Leader</i></h4>
+		</div>
 	</div>
 </div>
 
