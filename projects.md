@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: Projects
 description: What we're working on
 image: assets/images/pic11.jpg
