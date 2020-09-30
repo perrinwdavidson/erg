@@ -48,7 +48,6 @@ nav-menu: true
 		<p>The Organizing working group takes all these results and works with community leaders to hone our solutions towards a feasible, sustainable product that can be implemented in the Chicago community.</p>
 	</div>
 </div>
-</div>
 <hr class="major" />
 
 <!-- Three -->
@@ -76,6 +75,5 @@ nav-menu: true
 		<h3>Jacob Joergens</h3>
 		<h4><i>Director of Research</i></h1>
 	</div>
-</div>
 </div>
 <hr class="major" />
