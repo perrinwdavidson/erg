@@ -50,5 +50,36 @@ nav-menu: true
 
 <hr class="major" />
 
+<!-- Three -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1><i>We are:</h1>
+		</header>
+
+<!-- Content Three-->
+<div class="row">
+	<div class="row">
+		<div class="3u 12u$(medium)">
+			<h3>Perrin Davidson</h3>
+			<h4><i>Co-President</i></h1>
+		</div>
+		<div class="3u 12u$(medium)">
+			<h3>Niall Coffey</h3>
+			<h4><i>Co-President</i></h1>
+		</div>
+		<div class="3u$ 12u$(medium)">
+			<h3>Walker Gillett</h3>
+			<h4><i>Secretary</i></h1>
+		</div>
+    		<div class="3u$ 12u$(medium)">
+			<h3>Jacob Joergens</h3>
+			<h4><i>Director of Research</i></h1>
+		</div>
+	</div>
+</div>
+
+<hr class="major" />
+
 <!-- End -->
 </div>
