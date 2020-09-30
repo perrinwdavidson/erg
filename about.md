@@ -17,7 +17,6 @@ nav-menu: true
 
 <!-- Content -->
 <p>The Environmental Research Group is an undergraduate science and policy think tank devoted to interfacing science and social good to create sustainable change in Chicago through applicable, data-driven modeling. Science can oftentimes be void of application to the real world. So, the ERG was created to help build the bridge between data-driven solutions and real-world impact.</p>
-<p>Our group is split into four distinct working groups.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Data Analysis</h3>
@@ -49,6 +48,49 @@ nav-menu: true
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div> -->
 </div>
+
+<!-- Two -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1><i>We are founded in</i><br>Research</h1>
+		</header>
+
+<!-- Content -->
+<p>The ERG is divided into 4 working groups.</p>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Data Analysis</h3>
+		<p>The Data Analysis working group quality controls, performs statistical analyses on, and produces engaging graphics of our project data sets.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Modeling</h3>
+		<p>The Modeling working group works with and develops geospatial and temporal environmental models, with particular interest in Machine Learning.</p>
+	</div>
+	<div class="6u 12u$(small)">
+		<h3>Policy</h3>
+		<p>The Policy working group synthesizes the output from the Data Analysis and Modeling working groups with their own social science research to produce novel policy solutions to environmental and urban problems.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Organizing</h3>
+		<p>The Organizing working group takes all these results and works with community leaders to hone our solutions towards a feasible, sustainable product that can be implemented in the Chicago community.</p>
+	</div>
+	<!-- Break
+	<div class="4u 12u$(medium)">
+		<h3>Interdum sapien gravida</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h3>Faucibus consequat lorem</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h3>Accumsan montes viverra</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div> -->
+</div>
+
+
 
 <hr class="major" />
 
