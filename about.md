@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1><h3>We are</h3><br> Environmental</h1>
+			<h1>We are<br>Environmental</h1>
 		</header>
 
 <!-- Content -->
