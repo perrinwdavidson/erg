@@ -75,32 +75,32 @@ nav-menu: true
 			<img src="assets/images/img_walker.png" alt="Walker Gillet">
 			<h4 style="text-align:center"><i>Secretary</i></h4>
 		</div>
-    		<div class="6u 12u$(small)">
+    		<div class="4u 12u$(medium)">
 			<h3 style="text-align:center">Jacob Joergens</h3>
 			<img src="assets/images/img_jacob.png" alt="Jacob Joergens">
 			<h4 style="text-align:center"><i>Director of Research</i></h4>
 		</div>
-		<div class="6u 12u$(small)">
+		<div class="4u 12u$(medium)">
 			<h3 style="text-align:center">Jessica Zhong</h3>
 			<img src="assets/images/img_jessica.png" alt="Jessica Zhong">
 			<h4 style="text-align:center"><i>Director of Media and Outreach</i></h4>
 		</div>
-		<div class="6u$ 12u$(small)">
+		<div class="4u$ 12u$(medium)">
 			<h3 style="text-align:center">Marianna Karagiannis</h3>
 			<img src="assets/images/img_marianna.png" alt="Marianna Karagiannis">
 			<h4 style="text-align:center"><i>Data Analysis Working Group Leader</i></h4>
 		</div>
-		<div class="6u 12u$(small)">
+		<div class="4u 12u$(medium)">
 			<h3 style="text-align:center">Juni Terry</h3>
 			<img src="assets/images/img_juni.png" alt="Juni Terry">
 			<h4 style="text-align:center"><i>Modeling Working Group Leader</i></h4>
 		</div>
-		<div class="6u 12u$(small)">
+		<div class="4u 12u$(medium)">
 			<h3 style="text-align:center">Alex Viviano</h3>
 			<img src="assets/images/img_alex.png" alt="Alex Viviano">
 			<h4 style="text-align:center"><i>Policy Working Group Leader</i></h4>
 		</div>
-		<div class="6u$ 12u$(small)">
+		<div class="4u$ 12u$(medium)">
 			<h3 style="text-align:center">Michael Han</h3>
 			<img src="assets/images/img_michael.png" alt="Michael Han">
 			<h4 style="text-align:center"><i>Organizing Working Group Leader</i></h4>
