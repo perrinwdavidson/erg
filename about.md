@@ -19,8 +19,6 @@ nav-menu: true
 <p>The Environmental Research Group is an undergraduate science and policy think tank devoted to interfacing science and social good to create sustainable change in Chicago through applicable, data-driven modeling. Science can oftentimes be void of application to the real world. So, the ERG was created to help build the bridge between data-driven solutions and real-world impact.</p>
     </div>
 
-<hr class="major" />
-
 <!-- Two -->
 <section id="one">
 	<div class="inner">
@@ -48,7 +46,6 @@ nav-menu: true
 		<p>The Organizing working group takes all these results and works with community leaders to hone our solutions towards a feasible, sustainable product that can be implemented in the Chicago community.</p>
 	</div>
 </div>
-<hr class="major" />
 
 <!-- Three -->
 <section id="one">
@@ -76,4 +73,3 @@ nav-menu: true
 		<h4><i>Director of Research</i></h1>
 	</div>
 </div>
-<hr class="major" />
