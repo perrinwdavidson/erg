@@ -62,6 +62,7 @@ nav-menu: true
 	<div class="row">
 		<div class="4u 12u$(medium)">
 			<h3>Perrin Davidson</h3>
+			<img src="assets/images/img_perrin.png" alt="Perrin Davidson">
 			<h4><i>Co-President</i></h4>
 		</div>
 		<div class="4u 12u$(medium)">
