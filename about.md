@@ -66,36 +66,44 @@ nav-menu: true
 			<h4 style="text-align:center"><i>Co-President</i></h4>
 		</div>
 		<div class="4u 12u$(medium)">
-			<h3>Niall Coffey</h3>
-			<h4><i>Co-President</i></h4>
+			<h3 style="text-align:center">Niall Coffey</h3>
+			<img src="assets/images/img_niall.png" alt="Niall Coffey">
+			<h4 style="text-align:center"><i>Co-President</i></h4>
 		</div>
 		<div class="4u$ 12u$(medium)">
-			<h3>Walker Gillett</h3>
-			<h4><i>Secretary</i></h4>
+			<h3 style="text-align:center">Walker Gillett</h3>
+			<img src="assets/images/img_walker.png" alt="Walker Gillet">
+			<h4 style="text-align:center"><i>Secretary</i></h4>
 		</div>
     		<div class="6u 12u$(small)">
-			<h3>Jacob Joergens</h3>
-			<h4><i>Director of Research</i></h4>
+			<h3 style="text-align:center">Jacob Joergens</h3>
+			<img src="assets/images/img_jacob.png" alt="Jacob Joergens">
+			<h4 style="text-align:center"><i>Director of Research</i></h4>
 		</div>
 		<div class="6u 12u$(small)">
-			<h3>Jessica Zhong</h3>
-			<h4><i>Director of Media and Outreach</i></h4>
+			<h3 style="text-align:center">Jessica Zhong</h3>
+			<img src="assets/images/img_jessica.png" alt="Jessica Zhong">
+			<h4 style="text-align:center"><i>Director of Media and Outreach</i></h4>
 		</div>
 		<div class="6u$ 12u$(small)">
-			<h3>Marianna Karagiannis</h3>
-			<h4><i>Data Analysis Working Group Leader</i></h4>
+			<h3 style="text-align:center">Marianna Karagiannis</h3>
+			<img src="assets/images/img_marianna.png" alt="Marianna Karagiannis">
+			<h4 style="text-align:center"><i>Data Analysis Working Group Leader</i></h4>
 		</div>
 		<div class="6u 12u$(small)">
-			<h3>Juni Terry</h3>
-			<h4><i>Modeling Working Group Leader</i></h4>
+			<h3 style="text-align:center">Juni Terry</h3>
+			<img src="assets/images/img_juni.png" alt="Juni Terry">
+			<h4 style="text-align:center"><i>Modeling Working Group Leader</i></h4>
 		</div>
 		<div class="6u 12u$(small)">
-			<h3>Alex Viviano</h3>
-			<h4><i>Policy Working Group Leader</i></h4>
+			<h3 style="text-align:center">Alex Viviano</h3>
+			<img src="assets/images/img_alex.png" alt="Alex Viviano">
+			<h4 style="text-align:center"><i>Policy Working Group Leader</i></h4>
 		</div>
 		<div class="6u$ 12u$(small)">
-			<h3>Michael Han</h3>
-			<h4><i>Organizing Working Group Leader</i></h4>
+			<h3 style="text-align:center">Michael Han</h3>
+			<img src="assets/images/img_michael.png" alt="Michael Han">
+			<h4 style="text-align:center"><i>Organizing Working Group Leader</i></h4>
 		</div>
 	</div>
 </div>
