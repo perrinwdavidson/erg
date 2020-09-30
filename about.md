@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: About Us
+description: Who we are and what we stand for
 nav-menu: true
 ---
 
