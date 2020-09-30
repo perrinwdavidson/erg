@@ -30,19 +30,19 @@ nav-menu: true
 <!-- Content Two-->
 <p>The Environmental Research Group has four main Working Groups. </p>
 <div class="row">
-		<div class="3u$ 12u$(medium)">
+		<div class="2u$ 12u$(medium)">
 		<h3>Data Analysis</h3>
 		<p>The Data Analysis working group quality controls, performs statistical analyses on, and produces engaging graphics of our project data sets.</p>
 	</div>
-	<div class="3u 12u$(medium)">
+	<div class="2u 12u$(medium)">
 		<h3>Modeling</h3>
 		<p>The Modeling working group works with and develops geospatial and temporal environmental models, with particular interest in Machine Learning.</p>
 	</div>
-	<div class="3u 12u$(medium)">
+	<div class="2u 12u$(medium)">
 		<h3>Policy</h3>
 		<p>The Policy working group synthesizes the output from the Data Analysis and Modeling working groups with their own social science research to produce novel policy solutions to environmental and urban problems.</p>
 	</div>
-	<div class="3u$ 12u$(medium)">
+	<div class="2u$ 12u$(medium)">
 		<h3>Organizing</h3>
 		<p>The Organizing working group takes all these results and works with community leaders to hone our solutions towards a feasible, sustainable product that can be implemented in the Chicago community.</p>
 	</div>
