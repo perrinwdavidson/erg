@@ -53,7 +53,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1><i>We are founded in</i><br>Research</h1>
+			<h1><i>We are</i><br>founded in Research</h1>
 		</header>
 
 <!-- Content -->
