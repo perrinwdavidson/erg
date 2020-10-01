@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>COVID-19 and Air Pollution in Chicago</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This project is working at the intersection of air quality, transportation, and COVID-19 in the City of Chicago. The change in behavior from the pandemic has created a unique public transportation dataset, representing only the essential trips people have to make. Insights from this data will be used to recommend public transportation upgrades and highlight the air quality benefits this new infrastructure would bring.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
