@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 description: Who we are and what we stand for
+image: assets/images/about.jpg
 nav-menu: true
 ---
 
