@@ -2,7 +2,7 @@
 title: Updates
 layout: landing
 description: Check in on our recent activity, reports, and public engagment
-image: assets/images/pic07.jpg
+image: assets/images/updates.jpg
 nav-menu: true
 ---
 
