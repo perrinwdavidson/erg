@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="projects/covid19-air-pollution.html" class="image"> 
+		<a href="z-covid19-air-pollution.html" class="image"> 
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>This project is working at the intersection of air quality, transportation, and COVID-19 in the City of Chicago. The change in behavior from the pandemic has created a unique public transportation dataset, representing only the essential trips people have to make. Insights from this data will be used to recommend public transportation upgrades and highlight the air quality benefits this new infrastructure would bring.</p>
 				<ul class="actions">
-					<li><a href="projects/covid19-air-pollution.html" class="button">Learn more</a></li>
+					<li><a href="z-covid19-air-pollution.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
